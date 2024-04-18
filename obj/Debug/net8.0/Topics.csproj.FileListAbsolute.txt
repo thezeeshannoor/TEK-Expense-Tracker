@@ -1,0 +1,14 @@
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\Topics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\Topics.AssemblyInfoInputs.cache
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\Topics.AssemblyInfo.cs
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\Topics.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\bin\Debug\net8.0\Topics.exe
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\bin\Debug\net8.0\Topics.deps.json
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\bin\Debug\net8.0\Topics.runtimeconfig.json
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\bin\Debug\net8.0\Topics.dll
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\bin\Debug\net8.0\Topics.pdb
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\Topics.dll
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\refint\Topics.dll
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\Topics.pdb
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\Topics.genruntimeconfig.cache
+C:\Users\Zeeshan Noor\source\repos\Topics\Topics\obj\Debug\net8.0\ref\Topics.dll
